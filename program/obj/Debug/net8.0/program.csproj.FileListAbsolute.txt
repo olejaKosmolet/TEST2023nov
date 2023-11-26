@@ -1,0 +1,15 @@
+D:\aducation\november\TEST FINISH\test\program\bin\Debug\net8.0\program.exe
+D:\aducation\november\TEST FINISH\test\program\bin\Debug\net8.0\program.deps.json
+D:\aducation\november\TEST FINISH\test\program\bin\Debug\net8.0\program.runtimeconfig.json
+D:\aducation\november\TEST FINISH\test\program\bin\Debug\net8.0\program.dll
+D:\aducation\november\TEST FINISH\test\program\bin\Debug\net8.0\program.pdb
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\program.sourcelink.json
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\program.dll
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\refint\program.dll
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\program.pdb
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+D:\aducation\november\TEST FINISH\test\program\obj\Debug\net8.0\ref\program.dll
